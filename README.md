@@ -1,7 +1,9 @@
 # Profile Saya
-Nama    : Muhammad Hilmy
+Nama    : Muhammad Hilmy\n
 Kelas   : TI09
+```
 Jurusan : Teknik Infromatika angkatan 2022
+```
 
 # Final Project UAS
 
